@@ -1,5 +1,5 @@
 {
-    "name": "exonet/powerdns-php",
+    "name": "shiniv/powerdns-php",
     "type": "library",
     "description": "PowerDNS API PHP Client",
     "keywords": [
